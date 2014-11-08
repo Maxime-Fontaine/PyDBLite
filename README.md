@@ -1,4 +1,4 @@
 PyDBLite
 ========
 
-Python3 frameworks for SQLite 3 Data Base gestion 
+Python3 frameworks for managing SQLite 3 Data Bases 
